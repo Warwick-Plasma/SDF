@@ -1,0 +1,18 @@
+[submodule "C"]
+	path = C
+	url = https://github.com/keithbennett/SDF_C.git
+[submodule "FORTRAN"]
+	path = FORTRAN
+	url = https://github.com/keithbennett/SDF_FORTRAN.git
+[submodule "IDL"]
+	path = IDL
+	url = https://github.com/keithbennett/SDF_IDL.git
+[submodule "Matlab"]
+	path = Matlab
+	url = https://github.com/keithbennett/SDF_Matlab.git
+[submodule "VisIt"]
+	path = VisIt
+	url = https://github.com/keithbennett/SDF_VisIt.git
+[submodule "utilities"]
+	path = utilities
+	url = https://github.com/keithbennett/SDF_utilities.git
