@@ -16,3 +16,6 @@
 [submodule "utilities"]
 	path = utilities
 	url = https://github.com/keithbennett/SDF_utilities.git
+[submodule "documentation"]
+	path = documentation
+	url = https://github.com/keithbennett/SDF_documentation.git
