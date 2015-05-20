@@ -1,21 +1,21 @@
 [submodule "C"]
 	path = C
-	url = https://github.com/keithbennett/SDF_C.git
+	url = ../SDF_C.git
 [submodule "FORTRAN"]
 	path = FORTRAN
-	url = https://github.com/keithbennett/SDF_FORTRAN.git
+	url = ../SDF_FORTRAN.git
 [submodule "IDL"]
 	path = IDL
-	url = https://github.com/keithbennett/SDF_IDL.git
+	url = ../SDF_IDL.git
 [submodule "Matlab"]
 	path = Matlab
-	url = https://github.com/keithbennett/SDF_Matlab.git
+	url = ../SDF_Matlab.git
 [submodule "VisIt"]
 	path = VisIt
-	url = https://github.com/keithbennett/SDF_VisIt.git
+	url = ../SDF_VisIt.git
 [submodule "utilities"]
 	path = utilities
-	url = https://github.com/keithbennett/SDF_utilities.git
+	url = ../SDF_utilities.git
 [submodule "documentation"]
 	path = documentation
-	url = https://github.com/keithbennett/SDF_documentation.git
+	url = ../SDF_documentation.git
